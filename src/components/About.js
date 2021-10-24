@@ -109,27 +109,27 @@ export default function About(props) {
                     <p className="lead">
                         How to reach me -
                         <ul class="list-inline my-3">
-                            <li class="list-inline-item">
+                            <li class="list-inline-item my-1">
                                 <a href="https://twitter.com/atultrp_">
                                     <button type="button" class="btn btn-dark">Twitter</button>
                                 </a>
                             </li>
-                            <li class="list-inline-item">
+                            <li class="list-inline-item my-1">
                                 <a href="https://github.com/atultrp">
                                     <button type="button" class="btn btn-dark">GitHub</button>
                                 </a>
                             </li>
-                            <li class="list-inline-item">
+                            <li class="list-inline-item my-1">
                                 <a href="https://instagram.com/atultrp">
                                     <button type="button" class="btn btn-dark">Instagram</button>
                                 </a>
                             </li>
-                            <li class="list-inline-item">
+                            <li class="list-inline-item my-1">
                                 <a href="https://www.linkedin.com/in/atultrp-">
                                     <button type="button" class="btn btn-dark">LinkedIn</button>
                                 </a>
                             </li>
-                            <li class="list-inline-item">
+                            <li class="list-inline-item my-1">
                                 <a href="mailto: atul31815@gmail.com">
                                     <button type="button" class="btn btn-dark">Send Email</button>
                                 </a>
