@@ -4,6 +4,7 @@
 Basically, TextStar is a utility which can be used to manipulate your text in the way you want. This includes many features like covert text to Uppercase, to Lowercase, Copy text to clipboard, Remove extra spaces in the text and Clear text. It also provide user to see counting of words and characters entered by them. And provided Minute Count time to read the text. Here is one more feature to preview all the text that user entered.
 
 ## 🚀️ Demo :
+[TextStar App](https://text-star.vercel.app/)
 ![Screenshot from 2021-10-24 17-44-12](https://user-images.githubusercontent.com/69186169/138593661-9571ee4f-a5d2-4ecc-b464-3365bc66922d.png)
 
 ## 💻️ Tech Included
