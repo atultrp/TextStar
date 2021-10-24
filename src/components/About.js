@@ -37,7 +37,7 @@ export default function About(props) {
                 <div>
                     <h2>Introduction</h2>
                     <p className="lead ">
-                        Basically, <strong>TextStar</strong> is a utility which can be used to manipulate your text in the way you want. This includes many features like covert text to Uppercase, to Lowercase, Copy text to clipboard, Remove extra spaces in the text and Clear text. It also provide user to see counting of words and characters entered by them. And provided Minute Count time to read the text. Here is one more feature to preview all the text that user entered.
+                        Basically, <strong>TextStar</strong> is a utility which can be used to manipulate your text in the way you want. This includes many features like covert text to Uppercase, to Lowercase, Copy text to clipboard, Remove extra spaces in the text and Clear text. It also provide user to see counting of words and characters entered by them. And provided Minute Count time to read the text. Here is one more feature to preview all the text that user entered. In this web application both light and dark mode are available.
                     </p>
                 </div>
                 <div>
