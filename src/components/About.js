@@ -37,7 +37,7 @@ export default function About(props) {
                 <div>
                     <h2>Introduction</h2>
                     <p className="lead ">
-                        Basically, <strong>TextStar</strong> is a utility which can be used to manipulate your text in the way you want. This includes many features like covert text to Uppercase, to Lowercase, Copy text to clipboard, Remove extra spaces in the text and Clear text. It also provide user to see counting of words and characters entered by them. And provided Minute Count time to read the text. Here is one more feature to preview all the text that user entered. In this web application both light and dark mode are available.
+                        Basically, <strong>TextStar</strong> is a word counter and a character counting utility which can be used to manipulate your text in the way you want. You can remove extra spaces, copy the manipulated text as well as convert your text from uppercase to lowercase and lowercase to uppercase. And provided Minute Count time to read the text. Here is one more feature to preview all the text that user entered.
                     </p>
                 </div>
                 <div>
@@ -109,27 +109,27 @@ export default function About(props) {
                     <p className="lead">
                         How to reach me -
                         <ul class="list-inline my-3">
-                            <li class="list-inline-item my-1">
+                            <li class="list-inline-item">
                                 <a href="https://twitter.com/atultrp_">
                                     <button type="button" class="btn btn-dark">Twitter</button>
                                 </a>
                             </li>
-                            <li class="list-inline-item my-1">
+                            <li class="list-inline-item">
                                 <a href="https://github.com/atultrp">
                                     <button type="button" class="btn btn-dark">GitHub</button>
                                 </a>
                             </li>
-                            <li class="list-inline-item my-1">
+                            <li class="list-inline-item">
                                 <a href="https://instagram.com/atultrp">
                                     <button type="button" class="btn btn-dark">Instagram</button>
                                 </a>
                             </li>
-                            <li class="list-inline-item my-1">
+                            <li class="list-inline-item">
                                 <a href="https://www.linkedin.com/in/atultrp-">
                                     <button type="button" class="btn btn-dark">LinkedIn</button>
                                 </a>
                             </li>
-                            <li class="list-inline-item my-1">
+                            <li class="list-inline-item">
                                 <a href="mailto: atul31815@gmail.com">
                                     <button type="button" class="btn btn-dark">Send Email</button>
                                 </a>
