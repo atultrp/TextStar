@@ -4,7 +4,7 @@
 Basically, TextStar is a word counter and a character counting utility which can be used to manipulate your text in the way you want. You can remove extra spaces, copy the manipulated text as well as convert your text from uppercase to lowercase and lowercase to uppercase and provided Minute Count time to read the text. Here is one more feature to preview all the text that user entered.In this web application both light and dark mode are available.
 
 ## 🚀️ Demo :
-[TextStar App](https://text-star.vercel.app/)
+#### [TextStar App](https://text-star.vercel.app/)
 ![Screenshot from 2021-10-24 17-44-12](https://user-images.githubusercontent.com/69186169/138593661-9571ee4f-a5d2-4ecc-b464-3365bc66922d.png)
 
 ## 💻️ Tech Included
