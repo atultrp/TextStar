@@ -6,13 +6,6 @@ import { Link } from 'react-router-dom'
 
 
 export default function Navbar(props) {
-
-    // const toggleBlue = ()=>{
-    //     if(props.toggleMode === 'dark'){
-    //         document.body.style.backgroundColor = "#323a40";
-    //     }
-    // }
-
     return (
         <div>
             <nav className={`navbar navbar-expand-lg navbar-${props.mode} bg-${props.mode}`}>
@@ -30,21 +23,6 @@ export default function Navbar(props) {
                                 <Link className="nav-link" to="/about">{props.aboutTitle}</Link>
                             </li>
                         </ul>
-                        {/* <form className="d-flex">
-                            <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-                            <button className="btn btn-outline-light" type="submit">Search</button>
-                        </form> */}
-
-                        {/* Code updating below this line */}
-
-                        {/* <div className={`form-check text-${props.mode === 'light' ? 'dark' : 'light'}`}> */}
-                            {/* <input class="form-check-input" type="checkbox" onClick={props.toggleMode} id="checkboxNoLabel" value="1" aria-label="..."/> */}
-                            {/* <button type="button" onClick={props.toggleMode} onChange={toggleBlue} value="1" class="btn btn-primary"></button>
-                        </div> */}
-
-                        
-                        {/* Code updating above this line */}
-
                         <div className={`form-check form-switch text-${props.mode === 'light' ? 'dark' : 'light'}`}>
                             <input className="form-check-input" onClick={props.toggleMode} type="checkbox" role="switch" id="flexSwitchCheckDefault" />
                             <label className="form-check-label" htmlFor="flexSwitchCheckDefault">DarkMode</label>
