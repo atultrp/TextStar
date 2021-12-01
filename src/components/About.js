@@ -12,7 +12,7 @@ export default function About(props) {
                 <div>
                     <h2>Introduction</h2>
                     <p className="lead ">
-                        Basically, <strong>TextStar</strong> is a word counter and a character counting utility which can be used to manipulate your text in the way you want. You can remove extra spaces, copy the manipulated text as well as convert your text from uppercase to lowercase and lowercase to uppercase. And provided Minute Count time to read the text. Here is one more feature to preview all the text that user entered.
+                        Basically, <strong>TextStar</strong> is a word counter and a character counting utility which can be used to manipulate your text in the way you want. You can remove extra spaces, copy the manipulated text as well as convert your text from uppercase to lowercase and lowercase to uppercase. And provided Minute Count time to read the text. Here is one more feature to preview all the text that user enters.
                     </p>
                 </div>
                 <div>
